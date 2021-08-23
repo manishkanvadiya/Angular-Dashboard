@@ -1,0 +1,17 @@
+footer {
+    padding: 7px 30px;
+    height: 60px;
+    min-height: 60px;
+    background: #fff;
+    text-align: right;
+    -webkit-box-shadow: -2px -8px 41px -14px rgb(202 210 222 / 61%);
+    -moz-box-shadow: -2px -8px 41px -14px rgba(202,210,222,.61);
+    box-shadow: -2px -8px 41px -14px rgb(202 210 222 / 61%);
+    align-items: center;
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;   
+}
+footer p{
+    margin: 0;
+}
